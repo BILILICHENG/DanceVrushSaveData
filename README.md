@@ -1,3 +1,5 @@
+[English Version](https://github.com/BILILICHENG/DanceVrushSaveData/blob/main/readme-en) | [日本語版](https://github.com/BILILICHENG/DanceVrushSaveData/blob/main/readme-jp)
+
 # VRChat - Dance Vrush 成绩保存程序
 
 这是一个用于保存 VRChat - Dance Vrush 世界成绩的客户端程序。

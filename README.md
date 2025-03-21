@@ -8,7 +8,7 @@
 > [加入 Discord 服务器](https://20070615.xyz/discord)
 
 ## 如何使用？
-1. 下载最新版本的 `DanceVrushSaveData` 程序。
+1. 下载最新版本的 `DanceVrushSaveData` 程序。【[下载]([https://20070615.xyz/discord](https://github.com/BILILICHENG/DanceVrushSaveData/releases))】
 2. 将程序放置在任意位置，然后双击运行。
 3. 
    - 如果运行后遇到错误，请联系 **LI_CHENG** 先生。

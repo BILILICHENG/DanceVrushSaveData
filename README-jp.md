@@ -6,7 +6,7 @@
 > [Discord サーバーに参加する](https://20070615.xyz/discord)
 
 ## 使用方法
-1. 最新バージョンの `DanceVrushSaveData` プログラムをダウンロードします。
+1. 最新バージョンの `DanceVrushSaveData` プログラムをダウンロードします。「[ダウンロード](https://github.com/BILILICHENG/DanceVrushSaveData/releases)」
 2. プログラムを任意の場所に配置し、ダブルクリックして実行します。
 3. 
    - 実行後にエラーが発生した場合は、**LI_CHENG** さんにご連絡ください。

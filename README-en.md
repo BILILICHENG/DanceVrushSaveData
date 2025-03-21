@@ -6,7 +6,7 @@ This is a client program for saving scores in the VRChat - Dance Vrush world.
 > [Join Discord Server](https://20070615.xyz/discord)
 
 ## How to Use?
-1. Download the latest version of the `DanceVrushSaveData` program.
+1. Download the latest version of the `DanceVrushSaveData` program.[[Download](https://github.com/BILILICHENG/DanceVrushSaveData/releases)]
 2. Place the program anywhere and double-click to run it.
 3. 
    - If you encounter an error after running, please contact **LI_CHENG**.
